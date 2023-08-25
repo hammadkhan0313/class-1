@@ -1,15 +1,16 @@
-alert("welcome to my web" );
+alert("Hammad");
 
-alert ("Erro! Please enter a valid passward");  
+var a = 15;
+var b = "years old";
+var c  =(a+b);
+alert(c);
 
+alert("Certified Mobile Application Development");
 
-alert ("Welcome to js Land...\n happy coading" )
+alert("PIZZA\nPIZZ \nPIZ \nPI \nP");
 
-alert("welcome to JS land");
+alert("(e.g. example@example.com)");
 
- alert("Happy coading!\n  prevent this page from craeting additional dialogs.")
-var checkbox= document.querySelectorAll
+alert("I am trying to learn from the A smarter\n way to learn JavaScript");
 
-// var a = 10;
-b= alert ("hello... I can run JS through my web browser console");
-// console.log(b);
+alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
